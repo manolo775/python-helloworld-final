@@ -321,7 +321,37 @@ Fișa medicală a pacientului Diaconescu Virgil:
 Diagnostic: Gripa
 Alergii: Niciuna
 Alege o opțiune (1-4):4
-
-
+===  SISTEM AUTOMAT DE ALERTE FARMACIE ===
+ Toate stocurile și termenele de valabilitate sunt optime.
+===========================================
+=== HMS - MANAGEMENT FARMACIE SPITAL ===
+1. Afișare Inventar Detaliat
+2. Adăugare / Suplimentare Stoc
+3. Eliberare Medicament (Scădere Stoc)
+4. Ieșire
+Alege o opțiune:2
+Nume medicament: Paracetamol
+Cantitate de adăugat: 100
+2027-12-12 14:30:00
+Stocul pentru Paracetamol a fost actualizat. Cantitate adăugată: 100. Stoc curent: 100.
+Alege o opțiune:2
+Nume medicament: Ibuprofen
+Cantitate de adăugat: 50
+2027-12-12 14:31:00
+Stocul pentru Ibuprofen a fost actualizat. Cantitate adăugată: 50. Stoc curent: 50.
+Alege o opțiune:2
+Nume medicament: Amoxicilină
+Cantitate de adăugat: 200
+2027-12-12 14:32:00
+Stocul pentru Amox
+icilină a fost actualizat. Cantitate adăugată: 200. Stoc curent: 200.
+Alege o opțiune:3
+Nume medicament: Paracetamol
+Cantitate de eliberat: 20
+2027-12-12 14:33:00
+Stocul pentru Paracetamol a fost actualizat. Cantitate eliberată:
+    20. Stoc curent: 80.
+Alege o opțiune:4
+=== SISTEMUL SE ÎNCHIDE. TOATE DATELE RĂMÂN SALVATE. ===
 
 
