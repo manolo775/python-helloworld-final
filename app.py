@@ -280,6 +280,47 @@ Diagnostic: Răceală
 Alergii: Penicilină
 Fișa medicală a pacientului Sima Virgil a fost actualizată cu succes.
 Alege o opțiune (1-4):4
+4
+=== SPITAL HMS - MODUL PACIENȚI ===
+1. Adăugare pacient nou
+2. Căutare pacient / Vizualizare fișă
+3. Actualizare fișă medicală (Diagnostic/Alergii)
+4. Ieșire
+Alege o opțiune (1-4):1
+Iancu Ionut
+Alege o opțiune (1-4):1
+Toma Maria
+Alege o opțiune (1-4):1
+Diaconescu Virgil
+Alege o opțiune (1-4):1
+Popescu ion
+Alege o opțiune (1-4):1
+Dorobantu Vladut
+Alege o opțiune (1-4):1
+Ciusdei Ion
+Alege o opțiune (1-4):1
+Valentin Popescu
+Alege o opțiune (1-4):2
+diaconu Vladut
+Fișa medicală a pacientului Diaconescu Virgil:
+Diagnostic: Gripa
+Alergii: Niciuna
+Alege o opțiune (1-4):3
+diaconu Vladut
+Diagnostic: Gripa
+Alergii: Niciuna
+Fișa medicală a pacientului Diaconescu Virgil a fost actualizată cu succes.
+=== SPITAL HMS - MODUL PACIENȚI ===
+1. Adăugare pacient nou
+2. Căutare pacient / Vizualizare fișă
+3. Actualizare fișă medicală (Diagnostic/Alergii)
+4. Ieșire
+Alege o opțiune (1-4):2
+diaconu Vladut
+Fișa medicală a pacientului Diaconescu Virgil:
+Diagnostic: Gripa
+Alergii: Niciuna
+Alege o opțiune (1-4):4
 
 
 
