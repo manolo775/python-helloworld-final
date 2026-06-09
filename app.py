@@ -353,5 +353,26 @@ Stocul pentru Paracetamol a fost actualizat. Cantitate eliberată:
     20. Stoc curent: 80.
 Alege o opțiune:4
 === SISTEMUL SE ÎNCHIDE. TOATE DATELE RĂMÂN SALVATE. ===
+===  SISTEM AUTOMAT DE ALERTE FARMACIE ===
+ Toate stocurile și termenele de valabilitate sunt optime.
+===========================================
 
+=== HMS - MANAGEMENT FARMACIE (VERSIUNE CU BUG-URI) ===
+1. Afișare Inventar Detaliat
+2. Adăugare / Suplimentare Stoc
+3. Eliberare Medicament
+4. Ieșire
+Alege o opțiune:1
+=== INVENTAR FARMACIE ===
+Nume Medicament | Stoc Curent | Ultima Actualizare
+Paracetamol | 80 | 2027-12-12 14:33:00
+Ibuprofen | 50 | 2027-12-12 14:31:00
+Amoxicilină | 200 | 2027-12-12 14:32:00
 
+Alege o opțiune:3
+Nume medicament: Paracetamol
+Cantitate de eliberat: 90
+2027-12-12 14:35:00
+[EROARE] Stoc insuficient pentru Paracetamol. Stoc curent: 80. Nu se poate elibera cantitatea solicitată.
+Alege o opțiune:4
+=== SISTEMUL SE ÎNCHIDE. TOATE DATELE RĂMÂN SALVATE. ===
